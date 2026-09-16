@@ -36,3 +36,9 @@ h1 {
 .introduction p {
   line-height: 1.6;
 }
+/* CSS cố tình sửa sai để thực hành hoàn tác */
+.introduction {
+  background-color: red;
+  color: red;
+  font-size: 80px;
+}
